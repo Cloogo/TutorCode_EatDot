@@ -5,7 +5,7 @@ lib-dependence:libncuresw
 The game rule is simple,eat ten dots to level up.
 You have only three chances.Every time you collide with the obstacle,you loss a chance.
 What's interest is the distance between obstacles
-narrows when level up,however,there is increment on your chances.It's hard to reach
+narrows when level up,however,there is no increment on your chances.It's hard to reach
 level ten within three chances.So i play the game for trainning my patience,attentions,and
 reaction.
 
