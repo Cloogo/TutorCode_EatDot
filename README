@@ -1,0 +1,24 @@
+GameName:EatDot
+ScreenSize:1366*768
+lib-dependence:libncuresw
+
+The game rule is simple,eat ten dots to level up.
+You have only three chances.Every time you collide with the obstacle,you loss a chance.
+What's interest is the distance between obstacles
+narrows when level up,however,there is increment on your chances.It's hard to reach
+level ten within three chances.So i play the game for trainning my patience,attentions,and
+reaction.
+
+There exists some problems.
+First,the maps don't adjust to screen size.So you may
+play the game either more easily or more difficultly.
+Secondly,if you press UP/DOWN/LEFT/RIGHT and
+don't release,you may not move forward.
+Last but deadily,may not generate dots which means you will never level up.
+
+As for the codes,it makes me reflect on these aspects:
+magic number: contributes to more readable codes;
+macro substitution: shorten codes;
+function seperation: make codes logical and easy to maintain.
+Thus,i remain the codes unchanged.
+

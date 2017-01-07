@@ -1,0 +1,9 @@
+          Authors of PACKAGE
+          
+          The following contributions warranted legal paper exchanges
+          with [Cloogo].
+          Also see files ChangeLog and THANKS
+
+          Cloogo:
+            source/main.cc
+            header/snake.cc header/snake.h header/map.cc header/map.h header/color.cc header/color.h
